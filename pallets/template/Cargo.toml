@@ -9,7 +9,7 @@ repository = 'https://github.com/substrate-developer-hub/substrate-node-template
 version = '2.0.1'
 
 [package.metadata.docs.rs]
-targets = ['x86_64-unknown-linux-gnu']
+targets = ['aarch64-apple-darwin']
 
 # alias "parity-scale-code" to "codec"
 [dependencies.codec]
